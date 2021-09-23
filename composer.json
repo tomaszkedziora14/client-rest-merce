@@ -4,5 +4,6 @@
     "require": {
         "php": ">=7.3",
         "another-vendor/package": "1.*"
-    }
+    },
+    "prefer-stable": true
 }
