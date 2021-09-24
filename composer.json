@@ -19,9 +19,6 @@
                 "url": "https://github.com/tomaszkedziora14/client-rest-merce.git",
                 "type": "git",
                 "reference": "main"
-            },
-            "autoload": {
-                "classmap": ["lessc.inc.php"]
             }
         }
     }],
