@@ -17,5 +17,6 @@
         }
     },
     "prefer-stable": "dev",
-    "type": "library"
+    "type": "library",
+    
 }
