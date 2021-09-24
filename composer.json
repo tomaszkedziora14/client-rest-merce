@@ -13,7 +13,7 @@
     "repositories": [{
         "type": "package",
         "package": {
-            "version": "dev-master",
+            "version": "1.0.2",
             "name": "tomaszkedziora14/client-rest-merce",
             "source": {
                 "url": "https://github.com/tomaszkedziora14/client-rest-merce.git",
@@ -23,8 +23,6 @@
         }
     }],
     "prefer-stable": "dev",
-    "type": "library",
-    "version": "^1.0.0",
     "minimum-stability": "stable"
 
 }
