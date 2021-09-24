@@ -10,5 +10,11 @@
             "App\\": "src/"
         }
     },
+    "repositories": {
+        "lib_externe": {
+            "type": "git",
+            "url": "https://github.com/tomaszkedziora14/client-rest-merce.git"
+        }
+    },
     "prefer-stable": true
 }
