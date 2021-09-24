@@ -18,6 +18,7 @@
     },
     "prefer-stable": "dev",
     "type": "library",
-    "version": "^1.0.0"
+    "version": "^1.0.0",
+    "minimum-stability": "stable"
 
 }
