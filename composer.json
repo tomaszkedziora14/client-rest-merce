@@ -16,5 +16,5 @@
             "url": "https://github.com/tomaszkedziora14/client-rest-merce.git"
         }
     },
-    "prefer-stable": true
+    "prefer-stable": "dev"
 }
