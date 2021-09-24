@@ -2,8 +2,7 @@
     "name": "tomaszkedziora14/client-rest-merce",
     "description": "rest client libary",
     "require": {
-        "php": ">=7.3",
-        "another-vendor/package": "1.*"
+        "php": ">=7.3"
     },
     "autoload": {
         "psr-4": {
