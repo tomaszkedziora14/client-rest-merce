@@ -14,11 +14,11 @@
         "type": "package",
         "package": {
             "version": "dev-master",
-            "name": "nodge/lessphp",
+            "name": "tomaszkedziora14/client-rest-merce",
             "source": {
                 "url": "https://github.com/tomaszkedziora14/client-rest-merce.git",
                 "type": "git",
-                "reference": "master"
+                "reference": "main"
             },
             "autoload": {
                 "classmap": ["lessc.inc.php"]
